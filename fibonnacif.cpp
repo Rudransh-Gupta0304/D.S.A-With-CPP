@@ -10,7 +10,6 @@ void printNum(int n ){
         b=c;
     }
 }
-
 int main (){
     int n ;
     cin >>n ;
